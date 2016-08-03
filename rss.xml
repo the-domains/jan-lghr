@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jan LGHR]]></title>
         <description><![CDATA[Jan LGHR]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jan-lghr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 00:27:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 00:31:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jan-lghr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4eda80db-3571-4386-afc4-ac97dc850223.jpg">]]></description>
+            <link>https://thegrid.ai/jan-lghr/2a561c9c-01b0-489c-b25c-42558c1ed550/index.html</link>
+            <guid isPermaLink="false">2a561c9c-01b0-489c-b25c-42558c1ed550</guid>
+            <pubDate>Wed, 03 Aug 2016 00:30:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>First Post ... don't know what to tell you yet</p>]]></description>
-            <link>undefinedfirst-post--dont-know-what-to-tell-you-yet/index.html</link>
+            <link>https://thegrid.ai/jan-lghr/first-post--dont-know-what-to-tell-you-yet/index.html</link>
             <guid isPermaLink="false">eb863220-73d9-4edd-ae9e-536a3867730e</guid>
             <pubDate>Wed, 03 Aug 2016 00:27:11 GMT</pubDate>
         </item>
