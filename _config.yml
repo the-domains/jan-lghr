@@ -1,0 +1,28 @@
+name: Jan LGHR
+favicon: null
+layout_spectrum: 0.6031226993072778
+typography_spectrum: 0.23673761216923594
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.31504534068517387
+  lightness: 0.10938813956454396
+  saturation: 0.1179351769387722
+  rhythmicContrast: 0.12628875905647874
+purpose: []
